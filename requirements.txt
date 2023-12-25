@@ -1,0 +1,4 @@
+langchain
+tiktoken
+bs4
+requests
